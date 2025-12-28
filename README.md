@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building hands-on projects to strengthen my full-stack development skills, focusing on clean code, practical features, and real-world use cases.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects and web applications where I can learn, contribute, and grow with like-minded developers.<br><br>🤝 I’m looking for help with<br>Improving problem-solving skills, understanding industry best practices, and preparing myself for technical interviews.<br><br>🌱 I’m currently learning<br>Full-stack development, Data Structures & Algorithms, databases, and modern tools to become a job-ready software developer.<br><br>💬 Ask me about<br>My learning journey, project building from scratch, consistency in tech learning, and how I approach self-improvement as a developer.<br><br>⚡ Fun fact<br>I enjoy breaking complex problems into simple solutions and believe consistent effort is the real key to growth 🚀
+## 👋 About Me
+
+🔭 Working on hands-on projects to build strong full-stack development skills with clean, practical code.  
+🌱 Learning full-stack development, Data Structures & Algorithms, and databases to become job-ready.  
+👯 Open to collaborating on beginner-friendly open-source projects and real-world web applications.  
+💬 Ask me about project building, consistency in tech learning, and my development journey.  
+⚡ Fun fact: I enjoy breaking complex problems into simple solutions 🚀
+
 
 
 ## 🌐 Socials:
