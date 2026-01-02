@@ -44,7 +44,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 ---
 
@@ -59,6 +58,6 @@
 
 ![Snake animation](https://raw.githubusercontent.com/soumyajit18/soumyajit18/output/github-contribution-grid-snake-dark.svg)
 
-[![](https://visitcount.itsvg.in/api?id=soumyajit18&icon=5&color=12)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=soumyajit18&style=flat-square&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
