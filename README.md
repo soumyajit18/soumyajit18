@@ -58,11 +58,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+![Snake animation](https://raw.githubusercontent.com/soumyajit18/soumyajit18/output/github-contribution-grid-snake-dark.svg)
 
-## 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/soumyajit18/output/github-contribution-grid-snake.svg)
-
----
 [![](https://visitcount.itsvg.in/api?id=soumyajit18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
