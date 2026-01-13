@@ -56,7 +56,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=soumyajit18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=soumyajit18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajit18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ![Snake animation](https://raw.githubusercontent.com/soumyajit18/soumyajit18/output/github-contribution-grid-snake-dark.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=soumyajit18&style=flat-square&color=blue)
